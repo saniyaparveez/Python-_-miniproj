@@ -18,7 +18,10 @@ where
 Calculations :
 
 r = Interest paid / 12  (1 year)
+
 num = ( r * ((1 + r)**(n)))
+
 deno = ((1 + r)**(n))-1
+
 emi = P *(num/deno)
 emi
