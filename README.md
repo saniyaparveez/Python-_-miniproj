@@ -1,4 +1,4 @@
-"# TestRepo" 
+Mini_proj 
 FINANCING A CAR
 
 The following project includes :
