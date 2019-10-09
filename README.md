@@ -24,4 +24,5 @@ num = ( r * ((1 + r)**(n)))
 deno = ((1 + r)**(n))-1
 
 emi = P *(num/deno)
+
 emi
